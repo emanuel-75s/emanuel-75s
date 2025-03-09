@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @emanuel-75s
-- 👀 I’m interested in learning code 
+
 
 
 <!---
